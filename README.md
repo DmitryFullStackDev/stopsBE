@@ -31,4 +31,4 @@ response example:
 ```
 
 ## Running server is here
-https://stops-be.vercel.app/
+https://stops-be.vercel.app/stops
